@@ -1,6 +1,6 @@
-# template-typescript
+# template-react-typescript
 
-typescript template for shack.js
+react + typescript template for shack.js
 
 ## init
 
