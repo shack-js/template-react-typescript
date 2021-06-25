@@ -12,4 +12,6 @@ const Index = () => {
 
 render(<Index />, document.getElementById('react-root'))
 
+// @ts-ignore for hot reload 
+import.meta.webpackHot && import.meta.webpackHot.accept()
 
